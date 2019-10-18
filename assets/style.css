@@ -1,0 +1,56 @@
+body{
+    font-family: 'Share Tech Mono', monospace;
+}
+
+html,body {
+    background-image: url(../images/charles-forerunner-gapYVvUg1M8-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+    background-color: #fdc96827;
+    color: #fdc868;
+}
+
+.current-date{
+    font-size: 25px;
+}
+
+.current-time{
+    font-size: 22px;
+}
+
+.blink{
+    color: red;
+    font-weight: bolder;
+}
+
+.card-table{
+    margin-left: 80px;
+}
+
+.table-stuff, .input-class{
+    margin-bottom: 100px;
+}
+
+.btn-xs{
+    padding: .25rem .4rem;
+    font-size: .875rem;
+    line-height: .5;
+    border-radius: .2rem;
+}
+
+.delete{
+    text-align: center;
+}
+
+.card {
+    border: 1px #fdc868 solid;
+}
